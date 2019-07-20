@@ -1,0 +1,9 @@
+c:\users\petr\documents\visual studio 2012\Projects\Pyatnashki\Pyatnashki\bin\Debug\Pyatnashki.exe.config
+c:\users\petr\documents\visual studio 2012\Projects\Pyatnashki\Pyatnashki\bin\Debug\Pyatnashki.exe
+c:\users\petr\documents\visual studio 2012\Projects\Pyatnashki\Pyatnashki\bin\Debug\Pyatnashki.pdb
+c:\users\petr\documents\visual studio 2012\Projects\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.csprojResolveAssemblyReference.cache
+c:\users\petr\documents\visual studio 2012\Projects\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.mainWindow.resources
+c:\users\petr\documents\visual studio 2012\Projects\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.Properties.Resources.resources
+c:\users\petr\documents\visual studio 2012\Projects\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.csproj.GenerateResource.Cache
+c:\users\petr\documents\visual studio 2012\Projects\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.exe
+c:\users\petr\documents\visual studio 2012\Projects\Pyatnashki\Pyatnashki\obj\Debug\Pyatnashki.pdb
