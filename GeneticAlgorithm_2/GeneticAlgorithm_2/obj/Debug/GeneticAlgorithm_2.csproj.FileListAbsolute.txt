@@ -1,0 +1,7 @@
+c:\users\petr\documents\visual studio 2012\Projects\GeneticAlgorithm_2\GeneticAlgorithm_2\bin\Debug\GeneticAlgorithm_2.exe.config
+c:\users\petr\documents\visual studio 2012\Projects\GeneticAlgorithm_2\GeneticAlgorithm_2\bin\Debug\GeneticAlgorithm_2.exe
+c:\users\petr\documents\visual studio 2012\Projects\GeneticAlgorithm_2\GeneticAlgorithm_2\bin\Debug\GeneticAlgorithm_2.pdb
+c:\users\petr\documents\visual studio 2012\Projects\GeneticAlgorithm_2\GeneticAlgorithm_2\obj\Debug\GeneticAlgorithm_2.exe
+c:\users\petr\documents\visual studio 2012\Projects\GeneticAlgorithm_2\GeneticAlgorithm_2\obj\Debug\GeneticAlgorithm_2.pdb
+C:\Users\Petr\Documents\Visual Studio 2012\Projects\GeneticAlgorithm_2\GeneticAlgorithm_2\obj\Debug\GeneticAlgorithm_2.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Documents\Visual Studio 2012\Projects\GeneticAlgorithm_2\GeneticAlgorithm_2\obj\Debug\GeneticAlgorithm_2.csprojAssemblyReference.cache
